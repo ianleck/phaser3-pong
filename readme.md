@@ -3,7 +3,7 @@ First Phaser3 tutorial
 How to start:
 
 1. npm install
-2. npm run start
+2. npm start
 
 How to play:
 
